@@ -1,10 +1,15 @@
 S3 bucket with supported features
+
 versioning
+
 lifecycle rules
+
 server-side encryption
+
 access control
 
 Usage
+
 To run this example you need to execute:
 
 $ terraform init
